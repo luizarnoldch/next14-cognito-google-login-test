@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextcognitogooglelog-dev-113234-authRole",
+      "UnauthRoleArn": "arn:aws:iam::681318508133:role/amplify-nextcognitogooglelog-dev-113234-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::681318508133:role/amplify-nextcognitogooglelog-dev-113234-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-nextcognitogooglelog-dev-113234-deployment",
+      "UnauthRoleName": "amplify-nextcognitogooglelog-dev-113234-unauthRole",
+      "StackName": "amplify-nextcognitogooglelog-dev-113234",
+      "StackId": "arn:aws:cloudformation:us-east-1:681318508133:stack/amplify-nextcognitogooglelog-dev-113234/5030a0a0-d7e9-11ee-8fd4-12358859e29d",
+      "AmplifyAppId": "d399s7enpqchux"
+    },
+    "categories": {
+      "auth": {
+        "nextcognitogooglelog662974ed": {
+          "userPoolId": "us-east-1_9ZVMxgj84",
+          "userPoolName": "MorseCode-google-test-pool",
+          "webClientId": "74lga08f8d3hs6039qagkto7oq",
+          "nativeClientId": "74lga08f8d3hs6039qagkto7oq"
+        }
+      }
+    }
+  }
+}
